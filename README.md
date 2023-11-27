@@ -17,8 +17,8 @@
 |  特徵  | 相關度 |
 | ------------- | ------------- |
 | Petal length (PL)  | 最相關  |
-| Petal width (PW)  |   |
-| Sepal length (SL)  |   |
+| Petal width (PW)  | 次要相關  |
+| Sepal length (SL)  | 次要不相關  |
 | Sepal width (SW)  | 最不相關  |
 
 而從scatter plot可以明顯看出各個特徵皆易於分類出類別1，表示Setosa的四種屬性與另外兩種標籤的有明顯之差異，此分析結果也可直接從data中觀察出來。綜合上述，可以說明分類率與scatter plot之關係如下：
